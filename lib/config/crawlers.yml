@@ -25,3 +25,5 @@ crawlers:
   yahoo: Yahoo! Slurp
   yahoo_jp: Y!J
   yandex: Yandex
+  generic_bot: bot
+  generic_crawler: crawler
